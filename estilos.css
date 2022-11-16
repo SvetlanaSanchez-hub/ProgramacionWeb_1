@@ -1,0 +1,27 @@
+div{
+	background: red;
+}
+p{
+	font-size: 40px;
+} 
+
+h1{
+	font-size: 20px;
+}
+.seccionTablas{
+	background: green;
+}
+
+#miTabla{
+	background: blue;
+	width: 500px;
+	position: fixed;
+	top: 200px;
+	right: ;
+	bottom: ;
+	left: 150px ;
+
+}
+/* margin: opx 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+fixed, static, relative, absolute*/
